@@ -1,3 +1,16 @@
+/*write a c++ program  to search an element in array using linear search.
+In this c++ program we have to search an element in a given array using linear serch alogrithm. if given 
+element is present in array then we will print it's index otherwise print a message saying element not 
+found in array*/
+
+// For Example :
+// Input Array : [2,4,6,8,10,12]
+// Element to search : 4
+
+// output :
+// Element found at index 2
+
+
 #include <iostream>
 using namespace std;
    
