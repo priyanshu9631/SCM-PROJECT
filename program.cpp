@@ -3,7 +3,7 @@ In this c++ program we have to search an element in a given array using linear s
 element is present in array then we will print it's index otherwise print a message saying element not 
 found in array*/
 
-// For Example :
+// For Examplee :
 // Input Array : [2,4,6,8,10,12]
 // Element to search : 4
 
