@@ -4,7 +4,7 @@ element is present in array then we will print it's index otherwise print a mess
 found in array*/
 
 // For Examplee :
-// Input Array : [2,4,6,8,10,12]
+// Input Array : [2,4,6,8,10,12,16]
 // Element to search : 4
 
 // output :
