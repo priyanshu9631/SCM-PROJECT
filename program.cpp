@@ -22,7 +22,7 @@ int main(){
      
     cout << "Enter " << count << " numbers \n";
       
-    // Read array elements
+    // Read array   elements
     for(i = 0; i < count; i++){
         cin >> input[i];
     }
@@ -39,7 +39,7 @@ int main(){
     }
       
     if(i == count){
-        cout  << "Element Not Present in Input Array\n";
+        cout  << "Element are Not Present in Input Array\n";
     }
  
     return 0;
