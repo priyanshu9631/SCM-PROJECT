@@ -8,7 +8,7 @@ found in array*/
 // Element to search : 4
 
 // output :
-// Element found at index 2
+// Element found at  index 2 
 
 
 #include <iostream>
